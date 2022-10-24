@@ -96,7 +96,7 @@ fruits.remove('orange')
 #use of pop(index) pop(no argument) pop(index) is used to remove item at specified position pop() when no
 fruits.pop(0)
 print(fruits)
-# argument is passed removes last element form the list 
+#  if no argument is passed removes last element form the list 
 fruits.pop()
 print(fruits)
 # use of del list[0] function removes element at specific location it also deletes entire list when index not given
